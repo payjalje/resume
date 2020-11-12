@@ -10,7 +10,7 @@
 <br />[Edu. Cert. - Bachelor Degree Transcript](https://github.com/payjalje/resume/files/5480921/EDU.CERT.-.DEGREE.TRANSCRIPT.BBA.pdf)
 <br />
 <br />
-<br />[SSM - Senggara Maju Services](https://github.com/payjalje/resume/files/5531661/CERT_INFOSA0554645.pdf)
+<br />[SSM - Senggara Maju Services](https://github.com/payjalje/resume/files/5531712/SA0554645-H_CERT.pdf)
 <br />[CIDB - Senggara Maju Services]
 <br />[MOF - Senggara Maju Services]
 <br />[HASIL - Senggara Maju Services]
