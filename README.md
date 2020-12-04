@@ -11,7 +11,7 @@
 <br />
 <br />
 <br />[SSM - Senggara Maju Services](https://github.com/payjalje/resume/files/5531712/SA0554645-H_CERT.pdf)
-<br />[CIDB - Senggara Maju Services]
+<br />[CIDB - Senggara Maju Services](https://github.com/payjalje/resume/files/5642764/Perakuan.Pendaftaran.pdf)
 <br />[MOF - Senggara Maju Services]
 <br />[HASIL - Senggara Maju Services]
 <br />[KWSP - Senggara Maju Services]
