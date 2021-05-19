@@ -1,4 +1,3 @@
-[Faizal’s Resume.pdf](https://github.com/payjalje/resume/files/6506724/Faizal.s.Resume.pdf)
 # Mohamad Faizal Bin Hamdan
 
 [Faizal](https://user-images.githubusercontent.com/53597565/97986061-1971ce00-1e14-11eb-8c7a-3ffa3b467cc4.jpeg)
