@@ -1,6 +1,7 @@
+<img src="https://user-images.githubusercontent.com/53597565/97986061-1971ce00-1e14-11eb-8c7a-3ffa3b467cc4.jpeg" alt="Faizal" width="150" height="auto">
 # Mohamad Faizal Bin Hamdan
 
-[Faizal](https://user-images.githubusercontent.com/53597565/97986061-1971ce00-1e14-11eb-8c7a-3ffa3b467cc4.jpeg)
+
 <br />[Faizal's Resume - Word](https://github.com/payjalje/resume/files/5481207/Faizal.s.Resume.docx)
 <br />[Faizal's Resume - PDF](https://github.com/payjalje/resume/files/6506735/Faizal.s.Resume.pdf)
 <br />[Certificate - Chemical Safety Management .pdf](https://github.com/payjalje/resume/files/5480916/Certificate.-.Chemical.Safety.Management.pdf)
