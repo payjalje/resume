@@ -1,8 +1,9 @@
+[Faizal’s Resume.pdf](https://github.com/payjalje/resume/files/6506724/Faizal.s.Resume.pdf)
 # Mohamad Faizal Bin Hamdan
 
 [Faizal](https://user-images.githubusercontent.com/53597565/97986061-1971ce00-1e14-11eb-8c7a-3ffa3b467cc4.jpeg)
 <br />[Faizal's Resume - Word](https://github.com/payjalje/resume/files/5481207/Faizal.s.Resume.docx)
-<br />[Faizal's Resume - PDF](https://github.com/payjalje/resume/files/5531655/Faizal.s.Resume.pdf)
+<br />[Faizal's Resume - PDF](https://github.com/payjalje/resume/files/6506735/Faizal.s.Resume.pdf)
 <br />[Certificate - Chemical Safety Management .pdf](https://github.com/payjalje/resume/files/5480916/Certificate.-.Chemical.Safety.Management.pdf)
 <br />[Certificate - ISO 9001 2015 Internal Auditor.pdf](https://github.com/payjalje/resume/files/5480917/Certificate.-.ISO.9001.2015.Internal.Auditor.pdf)
 <br />[Certificate - VDA 6.3 Process Audit Training.pdf](https://github.com/payjalje/resume/files/5480919/Certificate.-.VDA.6.3.Process.Audit.Training.pdf)
@@ -10,8 +11,14 @@
 <br />[Edu. Cert. - Bachelor Degree Transcript](https://github.com/payjalje/resume/files/5480921/EDU.CERT.-.DEGREE.TRANSCRIPT.BBA.pdf)
 <br />
 <br />
-<br />[SSM - Senggara Maju Services](https://github.com/payjalje/resume/files/5531712/SA0554645-H_CERT.pdf)
-<br />[CIDB - Senggara Maju Services](https://github.com/payjalje/resume/files/5642764/Perakuan.Pendaftaran.pdf)
-<br />[MOF - Senggara Maju Services]
-<br />[HASIL - Senggara Maju Services]
-<br />[KWSP - Senggara Maju Services]
+<br />[SSM - Business Card](https://user-images.githubusercontent.com/53597565/118774706-b24fce80-b8b8-11eb-84d1-2c2fb025a849.PNG)
+<br />[SSM - S.M.S](https://github.com/payjalje/resume/files/6506750/S.M.S.-.SSM.CERT.final.pdf)
+<br />[CIDB PPK - S.M.S](https://github.com/payjalje/resume/files/6506757/S.M.S.-.CIDB.PPK.final.pdf)
+<br />[CIDB SPKK - S.M.S](https://github.com/payjalje/resume/files/6506758/S.M.S.-.CIDB.SPKK.final.pdf)
+<br />[CIDB STB - S.M.S](https://github.com/payjalje/resume/files/6506759/S.M.S.-.CIDB.STB.final.pdf)
+<br />[MOF - S.M.S](https://github.com/payjalje/resume/files/6506779/S.M.S.-.MOF.CERT.final.pdf)
+<br />[HASIL - S.M.S]
+<br />[KWSP - S.M.S]
+
+
+
