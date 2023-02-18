@@ -14,6 +14,7 @@
 <br />
 <br />[SSM - Business Card](https://user-images.githubusercontent.com/53597565/118774706-b24fce80-b8b8-11eb-84d1-2c2fb025a849.PNG)
 <br />[SSM - S.M.S](https://github.com/payjalje/resume/files/6506750/S.M.S.-.SSM.CERT.final.pdf)
+<br />[SSM - S.M.S 2023](https://github.com/payjalje/resume/files/10773431/S.M.S.-.SSM.CERT.final.2023.pdf)
 <br />[CIDB PPK - S.M.S](https://github.com/payjalje/resume/files/6506757/S.M.S.-.CIDB.PPK.final.pdf)
 <br />[CIDB SPKK - S.M.S](https://github.com/payjalje/resume/files/6506758/S.M.S.-.CIDB.SPKK.final.pdf)
 <br />[CIDB STB - S.M.S](https://github.com/payjalje/resume/files/6506759/S.M.S.-.CIDB.STB.final.pdf)
@@ -23,3 +24,4 @@
 
 
 
+[S.M.S. - SSM CERT final 2023.pdf](https://github.com/payjalje/resume/files/10773431/S.M.S.-.SSM.CERT.final.2023.pdf)
