@@ -3,6 +3,7 @@
 # Mohamad Faizal Bin Hamdan
 </center>
 
+<br />[Faizal's Resume - PDF](https://github.com/payjalje/resume/)
 <br />[Faizal's Resume - Word](https://github.com/payjalje/resume/files/5481207/Faizal.s.Resume.docx)
 <br />[Faizal's Resume - PDF](https://github.com/payjalje/resume/files/6506735/Faizal.s.Resume.pdf)
 <br />[Certificate - Chemical Safety Management .pdf](https://github.com/payjalje/resume/files/5480916/Certificate.-.Chemical.Safety.Management.pdf)
